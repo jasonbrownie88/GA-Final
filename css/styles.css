@@ -1,0 +1,116 @@
+/**
+Project Name: Blank Template
+Client: Your Client
+Author: Your Name
+*/
+
+/* SETUP
+/******************************************
+*/
+/* Sets more sensible box model sizing */
+*, *:before, *:after {
+	box-sizing: border-box;
+}
+
+/* To be used on the parent of floated elements */
+.clearfix:before, .clearfix:after {
+	content: "";
+	display: table;
+}
+
+.clearfix:after {
+	clear: both;
+}
+
+
+/* Sets more sensible box model sizing */
+*, *:before, *:after {
+	box-sizing: border-box;
+}
+
+/* To be used on the parent of floated elements */
+.clearfix:before, .clearfix:after {
+	content: "";
+	display: table;
+}
+
+.clearfix:after {
+	clear: both;
+}
+.container {
+	padding-top: 5%;
+  	width: 960px;
+  	margin: 0 auto;
+  }
+
+h1 {
+ font-family: Roboto;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 1.38;
+  color: #b4b4b4;
+ 
+ }
+
+ .definer {
+ 	padding-top: 5%;
+  	width: 960px;
+  	margin: 0 auto;
+
+}
+
+h2 {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 1.38;
+  color: #b4b4b4;
+}
+
+body {
+	 background-color: #4e4e4e;
+
+  }
+
+ .two-columns {
+ 	width: 920px;
+ }
+
+
+.paste-area {
+	float:left;
+	padding-top: 10%;
+    padding-right:10%;
+    padding-bottom: 10%;
+    padding-left: 10%;
+	width:60%;
+	height: 560px;
+	border-radius: 2px;
+  	background-color: #ffffff;
+  }
+
+ .textgoeshere {
+	border-style: none;
+	border-color: transparent;
+	position: center;
+	outline: none;
+	padding-top: 5%;
+    padding-right:5%;
+    padding-bottom: 5%;
+    padding-left: 5%;
+
+  }
+
+aside {
+ 	display: inline-block;
+ 	float: right;
+ 	width: 40%;
+ 	padding-top: 5%;
+    padding-right:5%;
+    padding-bottom: 5%;
+    padding-left: 5%; 
+ }
+
+.tag
+
+
